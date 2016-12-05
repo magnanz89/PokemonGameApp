@@ -1,0 +1,12 @@
+C:\Users\daniela\Documents\Visual Studio 2015\Projects\PokemonApp\PokemonConsoleApp\bin\Debug\PokemonConsoleApp.exe.config
+C:\Users\daniela\Documents\Visual Studio 2015\Projects\PokemonApp\PokemonConsoleApp\bin\Debug\PokemonConsoleApp.exe
+C:\Users\daniela\Documents\Visual Studio 2015\Projects\PokemonApp\PokemonConsoleApp\bin\Debug\PokemonConsoleApp.pdb
+C:\Users\daniela\Documents\Visual Studio 2015\Projects\PokemonApp\PokemonConsoleApp\bin\Debug\PokemonAppCore.dll
+C:\Users\daniela\Documents\Visual Studio 2015\Projects\PokemonApp\PokemonConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\daniela\Documents\Visual Studio 2015\Projects\PokemonApp\PokemonConsoleApp\bin\Debug\PokemonAppCore.pdb
+C:\Users\daniela\Documents\Visual Studio 2015\Projects\PokemonApp\PokemonConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\daniela\Documents\Visual Studio 2015\Projects\PokemonApp\PokemonConsoleApp\obj\Debug\PokemonConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\daniela\Documents\Visual Studio 2015\Projects\PokemonApp\PokemonConsoleApp\obj\Debug\PokemonConsoleApp.exe
+C:\Users\daniela\Documents\Visual Studio 2015\Projects\PokemonApp\PokemonConsoleApp\obj\Debug\PokemonConsoleApp.pdb
+C:\Users\daniela\Documents\Visual Studio 2015\Projects\PokemonApp\PokemonConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\daniela\Documents\Visual Studio 2015\Projects\PokemonApp\PokemonConsoleApp\bin\Debug\EntityFramework.SqlServer.xml

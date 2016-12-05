@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="PkmnContext-Web.config Connection String" description="PkmnContext Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:jpibnrh546.database.windows.net,1433;Database=PkmnDb;User ID=daniel@jpibnrh546;Password=@Katapult32!;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\daniela\\Documents\\Visual\ Studio\ 2015\\Projects\\PokemonApp\\PokemonApp\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PkmnContext']/@connectionString" />
+  </parameter>
+</parameters>
